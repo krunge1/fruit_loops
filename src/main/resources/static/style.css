@@ -1,0 +1,12 @@
+body{
+	margin: 50px;
+}
+
+h1 {
+	color: Pink;
+	padding: 25px;
+}
+
+.table {
+	border: 5px solid Pink;
+}
